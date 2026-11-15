@@ -15,4 +15,3 @@ Tampermonkey script to minimize trash on your homepage and search page, I will t
 
 ## Before/After
 [You can try out this slider](https://estradiol.rocks/github/avito/)
-# trashless-avito

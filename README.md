@@ -4,8 +4,10 @@ Tampermonkey script to minimize trash on your homepage and search page, I will t
 ## Features 
 - Hides listings marked "Забронировано" 
 - Dims listings marked "Просмотрено"
-- Removes ad slots that leave empty gaps in the listings grid
-
+- Hides ad slots that leave empty gaps in the listings grid
+- Hides the business block
+- Hides elements like "ЯПомогаю"
+- Hides the top ad bunner
  Works on the homepage and in the search results
 
 ## Installation

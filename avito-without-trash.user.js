@@ -23,12 +23,12 @@
     // ---------- settings ----------
     const HIDE_RESERVED = true; // hide "Забронировано" listings
     const DIM_VIEWED = true; // dim "Просмотрено" listings
-    const DIM_OPACITY = 0.1; // lower = more faded (viewed cards light up on hover)
+    const DIM_OPACITY = 0.4; // lower = more faded (viewed cards light up on hover)
     const HIDE_ADS = true; // hide ad cells in the listings grid
     const HIDE_TOP_BANNER = true; // hide the promo bar at the top of the page
-    const HIDE_CATEGORY_TILES = true; // big category grid on the homepage
-    const HIDE_BUSINESS_BLOCK = true; // "Всё для бизнеса" box on the right
-    const HIDE_HEADER_LINKS = true; // "Карьера в Авито" and "#яПомогаю" in the top nav
+    const HIDE_CATEGORY_TILES = false; // big category grid on the homepage
+    const HIDE_BUSINESS_BLOCK = false; // "Всё для бизнеса" box on the right
+    const HIDE_HEADER_LINKS = false; // "Карьера в Авито" and "#яПомогаю" in the top nav
 
     // ---------- constants ----------
     const RESERVED_TEXT = "Забронировано";
